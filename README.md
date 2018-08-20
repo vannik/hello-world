@@ -1,2 +1,6 @@
 # hello-world
-it's a proof repository
+
+Buonasera, buonasera e buonasera!
+
+Io sono vannik e in questo momento sto scrivendo cose a caso, per provare GitHub.
+Spero vada tutto bene.
